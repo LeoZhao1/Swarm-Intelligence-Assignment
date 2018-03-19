@@ -1,0 +1,7 @@
+N = 1; % no. of random numbers to generate...
+x = rand(N,1) % from a uniform distribution
+gamma = 3/2; % scale parameter for the distribution (as in the article)
+s = (1-x).^(-1/gamma) % s has a power-law distribution
+
+%levy flight
+le = 
