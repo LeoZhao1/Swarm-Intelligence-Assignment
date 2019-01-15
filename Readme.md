@@ -2,7 +2,7 @@
 
 This repository contain task from Swarm Inteligence Course at Telkom University. There are two tasks assigned at this course. These tasks include:
 
-1. [Traveling Salesman Problem With Particle Swarm Optimization Algorithm](https://github.com/hafidhfikri/Swarm-Intelligence-Task/tree/master/Travelling%20Salesman%20Problem%20with%20Particle%20Swarm%20Optimization)
+1. [Traveling Salesman Problem with Particle Swarm Optimization Algorithm](https://github.com/hafidhfikri/Swarm-Intelligence-Task/tree/master/Travelling%20Salesman%20Problem%20with%20Particle%20Swarm%20Optimization)
 2. [Data Clusteritation With Cuckoo Search Algorithm](https://github.com/hafidhfikri/Swarm-Intelligence-Task/tree/master/Clustering%20with%20Cuckoo%20Search)
 
 ## Kumpulan Tugas Mata Kuliah Kecerdasan Kolektif ##
